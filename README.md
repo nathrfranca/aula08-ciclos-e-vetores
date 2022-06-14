@@ -1,7 +1,7 @@
 # Colaboradores:
 ## [Nathalia França](https://github.com/nathrfranca)
 ## [Hugo Diniz](https://github.com/Hugogdiniz)
-## Luan Victor
+## [Luan Victor](https://github.com/LuanME)
 ## Sheylla Cristiane
 
 # Respostas da atividade
